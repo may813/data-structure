@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://192.168.0.113:8082/repository/npm-group/"
+    "registry": "http://192.168.0.113:8082/repository/npm-private/"
   },
   "repository": {
     "type": "git",
