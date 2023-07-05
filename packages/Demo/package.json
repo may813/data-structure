@@ -27,6 +27,7 @@
     "url": "https://github.com/may813/data-structure/issues"
   },
   "dependencies": {
-    "queue": "^0.0.2-alpha.0"
-  }
+    "@data-structure/queue": "^0.0.4-alpha.0"
+  },
+  "gitHead": "7a708a3a76d7252e1346bad678651bbd6d06796e"
 }
