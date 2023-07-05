@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.1.1"
+  }
+}

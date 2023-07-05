@@ -1,0 +1,29 @@
+{
+  "name": "stack",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "may813 <may_mli@163.com>",
+  "homepage": "https://github.com/may813/data-structure#readme",
+  "license": "ISC",
+  "main": "lib/Stack.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://192.168.0.113:8082/repository/npm-group/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/may813/data-structure.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/Stack.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/may813/data-structure/issues"
+  }
+}
